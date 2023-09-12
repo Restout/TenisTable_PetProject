@@ -1,4 +1,4 @@
-package application.service;
+package application;
 
 import com.zaxxer.hikari.HikariDataSource;
 
